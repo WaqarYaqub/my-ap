@@ -1,10 +1,10 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src='waqar.jpg' className="App-logo" alt="logo" />
+        <img src="waqar.jpg" className="App-logo" alt="logo" />
         {/* <a
           className="App-link"
           href="https://reactjs.org"
@@ -14,7 +14,8 @@ function App() {
           Learn React
         </a> */}
         <h1>Waqar Yaqub</h1>
-        <h5>waqar.yaqub.pk@gmail.com</h5>
+        <h5>Email: waqar.yaqub.pk@gmail.com</h5>
+        <h5>Contact: +923086785019</h5>
         <h3>Software Engineer at Pikessoft</h3>
 
       </header>
